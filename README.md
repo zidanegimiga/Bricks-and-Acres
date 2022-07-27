@@ -10,6 +10,8 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+[Link to design](https://xd.adobe.com/view/f582d0e7-acab-42c3-b7a6-e7eee4f1daa7-a0d1/screen/9b21711e-0296-4d30-b42f-3bd13ab3e4da/specs/)
+
 ## Project Architecture
 
 The project's architecture is inspired by the [https://feature-sliced.design/en/docs/get-started/quick-start](Feature-sliced design) specification.
