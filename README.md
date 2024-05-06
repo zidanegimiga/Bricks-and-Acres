@@ -1,4 +1,4 @@
-Link: bricksandacres.vercel.app
+Link: https://bricksandacres.vercel.app
 
 This project is bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
